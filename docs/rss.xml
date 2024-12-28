@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cheese blog</title><link>https://cheeseblog1.github.io</link><description>随便分享一点</description><copyright>Cheese blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s1.aigei.com/src/img/png/60/600bdf4c1aae4cdf8274dced8c79ec65.png?e=1735488000&amp;token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:69lzmz48deQ91Np_fmjgmMc0zDA=</url><title>avatar</title><link>https://cheeseblog1.github.io</link></image><lastBuildDate>Sat, 28 Dec 2024 12:03:48 +0000</lastBuildDate><managingEditor>Cheese blog</managingEditor><ttl>60</ttl><webMaster>Cheese blog</webMaster><item><title>开源软件推荐</title><link>https://cheeseblog1.github.io/post/kai-yuan-ruan-jian-tui-jian.html</link><description>1)onlyoffice
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cheese blog</title><link>https://cheeseblog1.github.io</link><description>随便分享一点</description><copyright>Cheese blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s1.aigei.com/src/img/png/60/600bdf4c1aae4cdf8274dced8c79ec65.png?e=1735488000&amp;token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:69lzmz48deQ91Np_fmjgmMc0zDA=</url><title>avatar</title><link>https://cheeseblog1.github.io</link></image><lastBuildDate>Sat, 28 Dec 2024 12:12:41 +0000</lastBuildDate><managingEditor>Cheese blog</managingEditor><ttl>60</ttl><webMaster>Cheese blog</webMaster><item><title>开源软件推荐</title><link>https://cheeseblog1.github.io/post/kai-yuan-ruan-jian-tui-jian.html</link><description>1)onlyoffice
 开源跨平台的办公软件，支持word、excel、ppt等
 
 ![d409adcaa4a14ea782ae40f0684b2145.png](https://github.com/user-attachments/assets/8bdca6bf-173e-44f1-ae63-edc76e141f42)
@@ -7,7 +7,7 @@
 [官网入口](https://www.onlyoffice.com/zh/)
 
 2）OBS Studio
-开源跨平台功能丰富录屏软件
+开源跨平台功能丰富的录屏软件
 
 ![OBS-Studio-interface.jpg](https://github.com/user-attachments/assets/d7c73e11-73fb-4a14-ba83-7abbb774a0c6)
 
